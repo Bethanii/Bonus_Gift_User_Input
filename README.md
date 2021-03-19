@@ -29,7 +29,7 @@ g.	Write a blank line to the screen after asking for the cost.
 
 h.	Add a Const variable (make sure to use the Const keyword) for the tax rate.  The tax rate will be .065.  (or, 1.065, depending on how you will calculated cost with tax)
 
-i.	Ask if this item is taxable.  I suggest requesting an answer of Y or N.  Make sure that case doesn’t matter (so that Y or y will represent Yes, for example)
+i.	Ask if this item is taxable. I suggest requesting an answer of Y or N.  Make sure that case doesn’t matter (so that Y or y will represent Yes, for example)
 
 a.	If the user indicates that the item is taxable, then Calculate the total cost, with tax, and save to a variable.
 b.	If the user indicates that the item is not taxable, then Calculate the total cost, without tax, and save to a variable.
@@ -37,7 +37,7 @@ b.	If the user indicates that the item is not taxable, then Calculate the total 
 j.	Output your information in 4 lines like I did, using your variables in strings.  
 a.	Make sure to use the ToString method on your cost variables in   order to format them correctly.  
 b.	Make sure that all 7 of your variables are included in this output
-c.	Also, see that case didn’t matter when I answered Y or N.  See mine below, with or without tax:
+c.	Also, see that case didn’t matter when I answered Y or N.
 
 k.	End this portion of the program with the following:
 a.	Write a blank line to the screen
